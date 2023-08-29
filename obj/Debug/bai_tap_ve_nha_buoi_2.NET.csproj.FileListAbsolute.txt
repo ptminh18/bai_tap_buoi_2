@@ -1,0 +1,7 @@
+C:\Users\minhf\source\repos\bai_tap_ve_nha_buoi_2.NET\bai_tap_ve_nha_buoi_2.NET\bin\Debug\bai_tap_ve_nha_buoi_2.NET.exe.config
+C:\Users\minhf\source\repos\bai_tap_ve_nha_buoi_2.NET\bai_tap_ve_nha_buoi_2.NET\bin\Debug\bai_tap_ve_nha_buoi_2.NET.exe
+C:\Users\minhf\source\repos\bai_tap_ve_nha_buoi_2.NET\bai_tap_ve_nha_buoi_2.NET\bin\Debug\bai_tap_ve_nha_buoi_2.NET.pdb
+C:\Users\minhf\source\repos\bai_tap_ve_nha_buoi_2.NET\bai_tap_ve_nha_buoi_2.NET\obj\Debug\bai_tap_ve_nha_buoi_2.NET.csprojAssemblyReference.cache
+C:\Users\minhf\source\repos\bai_tap_ve_nha_buoi_2.NET\bai_tap_ve_nha_buoi_2.NET\obj\Debug\bai_tap_ve_nha_buoi_2.NET.csproj.CoreCompileInputs.cache
+C:\Users\minhf\source\repos\bai_tap_ve_nha_buoi_2.NET\bai_tap_ve_nha_buoi_2.NET\obj\Debug\bai_tap_ve_nha_buoi_2.NET.exe
+C:\Users\minhf\source\repos\bai_tap_ve_nha_buoi_2.NET\bai_tap_ve_nha_buoi_2.NET\obj\Debug\bai_tap_ve_nha_buoi_2.NET.pdb
